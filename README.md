@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungBeom Github&fontSize=50" />
+
 ----------------
  ### 💻 Activities
 * 2020 KNU 코드페어 장려상
