@@ -1,5 +1,4 @@
-![image](https://github.com/seung365/seung365/assets/74394824/6298452a-4415-425c-8931-d5564d3cc721)
-Hi I'm SeungBeom
+👨‍💻 Hi I'm SeungBeom
 ----------------
  ### 💻 Activities
 * 2020 KNU 코드페어 장려상
