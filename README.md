@@ -1,4 +1,4 @@
-![image](https://github.com/seung365/seung365/assets/74394824/ccdc9537-b4b0-45ee-aa31-5566000b022b)
+![image](https://github.com/seung365/seung365/assets/74394824/6298452a-4415-425c-8931-d5564d3cc721)
 Hi I'm SeungBeom
 ----------------
  ### 💻 Activities
