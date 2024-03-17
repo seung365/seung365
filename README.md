@@ -1,4 +1,4 @@
-👨‍💻 Hi I'm SeungBeom
+👋 Hi I'm SeungBeom
 ----------------
  ### 💻 Activities
 * 2020 KNU 코드페어 장려상
