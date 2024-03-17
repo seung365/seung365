@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungBeom Github&fontSize=50" />
-
+Hi I'm SeungBeom
 ----------------
  ### 💻 Activities
 * 2020 KNU 코드페어 장려상
