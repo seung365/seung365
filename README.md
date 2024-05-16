@@ -19,6 +19,6 @@
 
 ### ✏ Velog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seung365)](https://github.com/eungyeole/velog-readme-stats)
+[[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seung365)](https://github.com/eungyeole/velog-readme-stats)](https://velog.io/@seung365/posts)
 
 
