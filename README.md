@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20I'm%20SeungBeom.&fontSize=70&&color=gradient&stroke=b678c4)
 
-<hr style="border: 1px solid #ccc;" />
+<hr style="border: .5px solid #ccc;" />
 
  ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
