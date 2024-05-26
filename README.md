@@ -1,9 +1,8 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SeungBeom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <hr/>
 
-👋 Hi I'm SeungBeom
-----------------
+
  ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
 * [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)
