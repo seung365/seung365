@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=AC87C5&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
 
  ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
