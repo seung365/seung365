@@ -10,18 +10,18 @@
 
 ### 🛠 Languages and Tools
 <div class='row'>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" /> 
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=plastic&logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/android-34A853?style=plastic&logo=android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=C%2B%2B&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /> 
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
 ### 🚩 Baekjoon
