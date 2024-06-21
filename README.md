@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)]
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)
 
 
  ### 💻 Activities
