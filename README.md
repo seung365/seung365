@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+url=https%3A%2F%2Fgithub.com%2Fseung365&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
 * [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)
