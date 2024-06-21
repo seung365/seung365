@@ -1,7 +1,7 @@
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)
+[![[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
 
 
- ### 💻 Activities
+### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
 * [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)
 * 제10회 대한민국 SW융합 해커톤 대회 본선 진출
