@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=191970&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=1E90FF&center=true&random=false&width=435&lines=Hi+I'm+seungbeom+👋👋)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=seung365&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%230000FF&title_bg=%230000FF&icon=&icon_color=%23CADEF7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%00FFFF&title_bg=%00BFFF&icon=&icon_color=%23CADEF7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ### 💻 Activities
