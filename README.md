@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seung365&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%23FFCAFF&title_bg=%238ED6FF&icon=&icon_color=%23CADEF7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%230000FF&title_bg=%230000FF&icon=&icon_color=%23CADEF7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ### 💻 Activities
