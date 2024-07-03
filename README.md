@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
 ### 🚩 Baekjoon
