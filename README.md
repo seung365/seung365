@@ -10,6 +10,7 @@
 * 제10회 대한민국 SW융합 해커톤 대회 본선 진출
 * [[부스트코스 DATA SCIENCE PROJECTS 코칭스터디 : 2024] 수료](/certificate_A20240215-019154.pdf)
 * 카카오 테크 캠퍼스 FE 2기 (2024.04 ~ )
+* 경북대학교 코딩 개발 동아리 해달 (2024.03 ~ )
 
 ### 🛠 Languages and Tools
 <div class='row'>
