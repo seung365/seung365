@@ -1,10 +1,9 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Hello%2C+I'm+Front-End+Developer+SEUNG+BEOM)](https://git.io/typing-svg)
-</div>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%2300FFFF&title_bg=%2300BFFF&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
-<div align=center>
   
 ### 💻 Activities
 [2020 KNU 코드페어 장려상](/codepair.jpeg)</br>
@@ -14,9 +13,8 @@
 경북대학교 코딩 개발 동아리 해달 (2024.03 ~ )</br>
 카카오 테크 캠퍼스 FE 2기 (2024.04 ~ )</br>
 
-
 ### 🛠 Languages and Tools
-<div class='row'>
+<div class="row">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
@@ -37,8 +35,6 @@
 ### 🚩 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bdh6009)](https://solved.ac/bdh6009/)
-
-
 
 ### ✏ velog
 
