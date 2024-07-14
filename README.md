@@ -5,6 +5,7 @@
 
 
 <div align=center>
+  
 ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
 * [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)
