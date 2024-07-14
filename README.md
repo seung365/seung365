@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%2300FFFF&title_bg=%2300BFFF&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-
+<div align=center>
 ### 💻 Activities
 * [2020 KNU 코드페어 장려상](/codepair.jpeg)
 * [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)
@@ -43,5 +43,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seung365)](https://velog.io/@seung365/posts)
 
-
+</div>
 
