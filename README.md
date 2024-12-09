@@ -1,11 +1,12 @@
-<div align="center">
+<div align="flex-start">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=5000&random=false&width=800&height=100&lines=Hello%2C+I'm+Front-End+Developer+SEUNG+BEOM)](https://git.io/typing-svg)
 
-![SeungBeom Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung365&show_icons=true&theme=blue)
-
-
+![SeungBeom Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung365&show_icons=true&theme=blue) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%2300FFFF&title_bg=%2300BFFF&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
   
 ### 💻 Activities
 [2020 KNU 코드페어 장려상](/codepair.jpeg)</br>
