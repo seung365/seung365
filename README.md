@@ -14,9 +14,9 @@
 [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)</br>
 제10회 대한민국 SW융합 해커톤 대회 본선 진출</br>
 [[부스트코스 DATA SCIENCE PROJECTS 코칭스터디 : 2024] 수료](/certificate_A20240215-019154.pdf)</br>
-경북대학교 코딩 개발 동아리 해달 (2024.03 ~ )</br>
-[카카오 테크 캠퍼스 FE 2기 (2024.04.08 ~ 2024.11.20)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
-Google Developer Group KNU 4기 FE Member (2024.09 ~ )</br>
+경북대학교 코딩 개발 동아리 해달 (2024.03 ~ 2025.02)</br>
+[카카오 테크 캠퍼스 FE 2기 (2024.04 ~ 2024.11)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
+Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
 
 ### 🛠 Languages and Tools
 <div class="row">
@@ -25,13 +25,14 @@ Google Developer Group KNU 4기 FE Member (2024.09 ~ )</br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=purple">
-<img src="https://img.shields.io/badge/Emotion-black?style=flat-square&logo=emotion&logoColor=white">
-<img src="https://img.shields.io/badge/ChakraUi-319795?style=flat-square&logo=chakraui&logoColor=white">
+<img src="https://img.shields.io/badge/TanStackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Emotion-black?style=flat-square&logo=emotion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-purple?style=flat-square&logo=zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
 </div>
