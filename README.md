@@ -7,7 +7,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%2300F7EB&title_bg=%2300D4FF&icon=waze.svg&icon_color=%23FFFFFF&title=Welcome%21&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-
+### 💪 Work Experience
+(주)셈웨어 ICT 인턴십 프로그램 (프론트엔드) 2025.03 ~ 
   
 ### 💻 Activities
 [2020 KNU 코드페어 장려상](/codepair.jpeg)</br>
