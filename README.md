@@ -19,6 +19,7 @@
 경북대학교 코딩 개발 동아리 해달 (2024.03 ~ 2025.02)</br>
 [카카오 테크 캠퍼스 FE 2기 (2024.04 ~ 2024.11)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
 Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
+엘리스 포트폴리오 트랙 FE 1기
 
 ## 🛠 Languages and Tools
 <div class="row">
