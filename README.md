@@ -31,9 +31,9 @@ Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=purple"/>
+<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Emotion-black?style=flat-square&logo=emotion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-purple?style=flat-square&logo=zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
