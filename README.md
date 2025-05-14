@@ -23,7 +23,7 @@
 엘리스 포트폴리오 트랙 FE 1기(2025.01 ~ 2025.03)</br>
 Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
 [카카오 테크 캠퍼스 FE 2기 (2024.04 ~ 2024.11)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
-코딩 개발 동아리 해달 (2024.03 ~ 2025.02)</br>
+경북대 코딩 개발 동아리 해달 (2024.03 ~ 2025.02)</br>
 [[부스트코스 DATA SCIENCE PROJECTS 코칭스터디] (2024.01 ~ 2024.02)](/certificate_A20240215-019154.pdf)</br>
 
 ## 🛠 Languages and Tools
