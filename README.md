@@ -11,13 +11,14 @@
 -->
 
 ## 💪 Work Experience
+TVING Web Service Development 인턴 (2025.07 ~ 현재 진행 중)</br>
 (주)셈웨어 ICT 인턴십 프로그램 (프론트엔드) (2025.03 ~ 2025.06)
 
 ## 🏆 Awards  
 [2025 엘리스 포트폴리오 트랙 프로젝트 대상](/elice.pdf)</br>
 2024 제10회 대한민국 SW융합 해커톤 대회 본선 진출</br>
 [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)</br>
-[2020 KNU 코드페어 장려상](/codepair.jpeg)</br>
+[2020 KNU 코드페어 장려상](/codepair.jpeg)
 
 ## 💻 Activities
 IT 연합동아리 YAPP 26기 Web (2025.05 ~ 현재 진행 중)</br>
@@ -25,7 +26,7 @@ IT 연합동아리 YAPP 26기 Web (2025.05 ~ 현재 진행 중)</br>
 Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
 [카카오 테크 캠퍼스 FE 2기 (2024.04 ~ 2024.11)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
 경북대 코딩 개발 동아리 해달 (2024.03 ~ 2025.02)</br>
-[[부스트코스 DATA SCIENCE PROJECTS 코칭스터디] (2024.01 ~ 2024.02)](/certificate_A20240215-019154.pdf)</br>
+[[부스트코스 DATA SCIENCE PROJECTS 코칭스터디] (2024.01 ~ 2024.02)](/certificate_A20240215-019154.pdf)
 
 ## 🛠 Languages and Tools
 <div class="row">
