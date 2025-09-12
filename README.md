@@ -20,7 +20,7 @@
 [2020 KNU 코드페어 장려상](/codepair.jpeg)
 
 ## 💻 Activities
-IT 연합동아리 YAPP 26기 Web (2025.05 ~ 현재 진행 중)</br>
+[IT 연합동아리 YAPP 26기 Web (2025.05 ~ 2025.08)](/yapp.png)</br>
 엘리스 포트폴리오 트랙 FE 1기 (2025.01 ~ 2025.03)</br>
 Google Developer Group KNU 4기 FE Member (2024.09 ~ 2025.02)</br>
 [카카오 테크 캠퍼스 FE 2기 (2024.04 ~ 2024.11)](/Certificate_of_Kakao_Tech_Campus.pdf)</br>
