@@ -15,7 +15,7 @@
 
 ## 🏆 Awards  
 [2025 엘리스 포트폴리오 트랙 프로젝트 대상](/elice.pdf)</br>
-2024 제10회 대한민국 SW융합 해커톤 대회 본선 진출</br>
+2023 제10회 대한민국 SW융합 해커톤 대회 본선 진출</br>
 [2023 Hackers Ground 우수상 (마이크로소프트 사장상)](/hackersground.png)</br>
 [2020 KNU 코드페어 장려상](/codepair.jpeg)
 
