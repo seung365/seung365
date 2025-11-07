@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=5000&random=false&width=800&height=100&lines=Hello%2C+I'm+Front-End+Developer+SEUNG+BEOM)](https://git.io/typing-svg)
 -->
 
-![SeungBeom Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung365&show_icons=true&theme=blue) 
+![SeungBeom Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung365&include_all_commits=true&show_icons=true&theme=codeSTACKr&count_private=true) </br>
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung365%2Fhit-counter&count_bg=%2300F7EB&title_bg=%2300D4FF&icon=waze.svg&icon_color=%23FFFFFF&title=Welcome%21&edge_flat=true)](https://hits.seeyoufarm.com)
