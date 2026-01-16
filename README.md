@@ -13,7 +13,7 @@
 -->
 
 ## 💪 Work Experience
-티빙 Web Service Development (2025.07 ~ 현재 진행중)</br>
+티빙 Web Service Development (2025.07 ~ 2026.01)</br>
 (주)셈웨어 ICT 인턴십 프로그램 (프론트엔드) (2025.03 ~ 2025.06)
 
 ## 🏆 Awards  
