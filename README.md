@@ -9,7 +9,7 @@
 ## Experience
 | Period | Organization | Role |
 | :--- | :--- | :--- |
-| 2025.07 - 2026.01 | **카카오 헬스케어 (Kakao Healthcare)** | Front-End Engineer |
+| 2026.02 - 현재 | **카카오 헬스케어 (Kakao Healthcare)** | Front-End Engineer |
 | 2025.07 - 2026.01 | **티빙 (TVING)** | Web Service Development |
 | 2025.03 - 2025.06 | **(주)셈웨어** | ICT 인턴십 (Front-End) |
 
